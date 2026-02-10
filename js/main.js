@@ -27,8 +27,3 @@ firefox.addEventListener('click', function() {
     window.open('https://firefox.com', '_blank')
 
 })
-
-document.addEventListener('DOMContentLoaded', () => {
-            audio.play()
-            
-        });
